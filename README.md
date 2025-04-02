@@ -1,4 +1,4 @@
-# assignment3
+# python
 1. Factorial Calculator
 
 A simple Python program that calculates the factorial of a given non-negative integer using a function. This project demonstrates basic programming concepts such as loops, functions, and input validation.
